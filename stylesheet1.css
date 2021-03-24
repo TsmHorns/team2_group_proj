@@ -1,0 +1,41 @@
+body
+{
+    background-image: radial-gradient(#433369, #7e4d80);
+}
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-allign: center;
+    text-decoration: underline;
+  }
+  p {
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 160%;
+    border: 2px solid powderblue;
+    padding: 40px;
+    margin: 100px;
+  }
+  input{
+      width: 70%;
+      height: 70%;
+      padding: 10px;
+  
+  }
+  .myDiv
+  {
+    text-align: center;
+    background-image: radial-gradient(#617d97, #190e1a);
+    padding:40px;
+   
+  }
+  .myDiv2
+  {
+    text-align: center;
+    background-image: radial-gradient(#0e663d, #76804e);
+    padding:40px;
+    
+
+  }
+
